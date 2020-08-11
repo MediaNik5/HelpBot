@@ -1,4 +1,4 @@
-package org.medianik.bothelp.Config;
+package org.medianik.bothelp.config;
 
 public final class BotInfo {
     public static String botName = "SchoolBot";
